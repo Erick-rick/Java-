@@ -1,0 +1,10 @@
+package br.com.mercado;
+
+public class Product {
+	private int id;
+    private String descricao;
+    private int qtd;
+    private double preco;
+
+
+}
